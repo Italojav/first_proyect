@@ -1,0 +1,5 @@
+Mi meta:
+
+/ => 'Hola a todos'
+/adios> 'Chao pescado'
+/saludar/<nombre> => 'Buenos Dias <nombre>'
